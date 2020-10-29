@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Doortje
 tagline: Schrijver/Ondernemer
-featuredImage: /assets/brain_hands_large.jpg
+featuredImage: /assets/foto-intro.jpg
 cta:
   ctaText: Meer info over mijzelf
   ctaLink: /about
